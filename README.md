@@ -8,6 +8,8 @@ used in the report, with explicit statistical tests and uncertainty.
 Course project, *Digital Skills for Sustainable Societal Transitions*,
 Politecnico di Torino, A.Y. 2025/26.
 
+**Read the report: [`report/report.md`](report/report.md)** (all tables, charts and maps).
+
 ## What the pipeline does
 
 | Step | Module | Main outputs |
@@ -48,8 +50,9 @@ turin-micromobility/
 │   ├── run_all.py          # full pipeline
 │   └── check_time_offsets.py
 ├── report/
-│   ├── report.md           # report text (source)
-│   └── build_report.py     # builds the .docx with figures and tables
+│   ├── report.md           # rendered report (tables + figures), generated
+│   ├── report_source.md    # report text with table placeholders (edit this)
+│   └── build_report.py     # renders report.md (and a local .docx)
 ├── outputs/                # generated: figures/, maps/, tables/, zonal_indicators.gpkg
 ├── requirements.txt
 └── README.md
@@ -65,7 +68,7 @@ pip install -r requirements.txt
 set MICROMOBILITY_DATA_ROOT=C:\path\to\data          # default: parent folder of the repository
 
 python scripts/run_all.py --rebuild                  # about 1-2 minutes
-python report/build_report.py                        # builds the Word report locally (not versioned)
+python report/build_report.py                        # renders report/report.md (+ local .docx, not versioned; --md-only to skip)
 ```
 
 Run a subset with `--steps descriptive od transit`. Cleaned trips are cached
