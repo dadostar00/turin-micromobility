@@ -1,0 +1,7 @@
+operator,pair,rho,p,n
+A,median idle vs origin density,-0.7873661232116047,1.0734715702700234e-18,83
+A,relocation rate vs origin density,-0.9409554594685362,7.404976945518166e-40,83
+B,median idle vs origin density,0.13236083165660628,0.27118161903732174,71
+B,relocation rate vs origin density,-0.7449027498323272,9.473702340359932e-14,71
+C,median idle vs origin density,-0.22610314191495773,0.04109686799969331,82
+C,relocation rate vs origin density,-0.8736626723696955,9.440393828207033e-27,82

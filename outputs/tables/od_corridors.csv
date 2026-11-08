@@ -1,0 +1,46 @@
+operator,zone_a,zone_b,trips_both_directions,a_to_b,b_to_a,name_a,name_b
+A,03,04,10775,5224,5551,Palazzo Carignano - Vecchio Ospedate (Borgo Nuovo),Piazza San Carlo - Piazza Carlo Felice
+A,01,04,10479,4737,5742,Municipio,Piazza San Carlo - Piazza Carlo Felice
+A,09,19,8130,4006,4124,Piazza Madama Cristina (Borgo San Salvario),Piazza Nizza - (Borgo San Salvario)
+A,04,06,7834,3464,4370,Piazza San Carlo - Piazza Carlo Felice,Piazza Vittorio Veneto
+A,01,03,7379,3618,3761,Municipio,Palazzo Carignano - Vecchio Ospedate (Borgo Nuovo)
+A,03,06,7093,3405,3688,Palazzo Carignano - Vecchio Ospedate (Borgo Nuovo),Piazza Vittorio Veneto
+A,04,08,7010,3687,3323,Piazza San Carlo - Piazza Carlo Felice,Comandi Militari - Stazione Porta Susa
+A,01,08,6861,3333,3528,Municipio,Comandi Militari - Stazione Porta Susa
+A,33,35,6701,3312,3389,Borgo San Paolo,Polo Nord
+A,04,10,6336,3289,3047,Piazza San Carlo - Piazza Carlo Felice,Borgo San Secondo - Stazione Porta Nuova
+A,24,38,6323,3152,3171,Borgata Aurora,Borgata Monterosa
+A,04,19,6098,3427,2671,Piazza San Carlo - Piazza Carlo Felice,Piazza Nizza - (Borgo San Salvario)
+A,01,12,5778,2805,2973,Municipio,Borgo Dora - Valdocco
+A,12,24,5666,2791,2875,Borgo Dora - Valdocco,Borgata Aurora
+A,04,09,5653,2907,2746,Piazza San Carlo - Piazza Carlo Felice,Piazza Madama Cristina (Borgo San Salvario)
+B,17bis,33,1071,484,587,Carceri - Officine Ferroviarie,Borgo San Paolo
+B,33,35,975,459,516,Borgo San Paolo,Polo Nord
+B,08,26,928,437,491,Comandi Militari - Stazione Porta Susa,Crocetta
+B,16,29,852,418,434,Borgo San Donato,Borgata Campidoglio - Martinetto
+B,01,08,841,410,431,Municipio,Comandi Militari - Stazione Porta Susa
+B,18,35,817,419,398,Vecchia Piazza D'Armi,Polo Nord
+B,18,26,811,351,460,Vecchia Piazza D'Armi,Crocetta
+B,10,26,770,335,435,Borgo San Secondo - Stazione Porta Nuova,Crocetta
+B,26,33,750,409,341,Crocetta,Borgo San Paolo
+B,26,35,744,394,350,Crocetta,Polo Nord
+B,08,33,653,352,301,Comandi Militari - Stazione Porta Susa,Borgo San Paolo
+B,19,20,648,351,297,Piazza Nizza - (Borgo San Salvario),Corso Dante - Ponte Isabella
+B,17bis,35,625,288,337,Carceri - Officine Ferroviarie,Polo Nord
+B,17bis,26,619,280,339,Carceri - Officine Ferroviarie,Crocetta
+B,17,33,614,312,302,Mercato del Bestiame - Aiuola Martini,Borgo San Paolo
+C,57,58,2007,1094,913,Molinette - Vecchia Fiat - Stazione Smistamento,Millefonti - Nuova Barriera di Nizza
+C,03,04,1941,811,1130,Palazzo Carignano - Vecchio Ospedate (Borgo Nuovo),Piazza San Carlo - Piazza Carlo Felice
+C,53,55,1866,872,994,Santa Rita Da Cascia,Ospizio di Carità
+C,18,26,1825,844,981,Vecchia Piazza D'Armi,Crocetta
+C,56,57,1742,815,927,Mercato Ortofrutticolo,Molinette - Vecchia Fiat - Stazione Smistamento
+C,08,26,1690,941,749,Comandi Militari - Stazione Porta Susa,Crocetta
+C,04,08,1677,896,781,Piazza San Carlo - Piazza Carlo Felice,Comandi Militari - Stazione Porta Susa
+C,33,35,1593,783,810,Borgo San Paolo,Polo Nord
+C,56,61,1510,772,738,Mercato Ortofrutticolo,Lingotto - Ex Ippodromo
+C,08,33,1501,919,582,Comandi Militari - Stazione Porta Susa,Borgo San Paolo
+C,08,18,1501,885,616,Comandi Militari - Stazione Porta Susa,Vecchia Piazza D'Armi
+C,04,06,1425,647,778,Piazza San Carlo - Piazza Carlo Felice,Piazza Vittorio Veneto
+C,16,17,1400,657,743,Borgo San Donato,Mercato del Bestiame - Aiuola Martini
+C,17,33,1380,680,700,Mercato del Bestiame - Aiuola Martini,Borgo San Paolo
+C,05,08,1376,672,704,Piazza Statuto,Comandi Militari - Stazione Porta Susa

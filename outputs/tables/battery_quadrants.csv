@@ -1,0 +1,9 @@
+operator,quadrant,trips,share_pct,median_drop,q1,q3
+A,High efficiency,1046292,93.06900572935152,6.0,3.0,9.0
+A,Long but low-intensity,49451,4.398729420011012,11.0,6.0,18.0
+A,Short but intense,8470,0.7534172855451512,16.0,11.0,23.0
+A,Stressful,19998,1.7788475650923181,21.0,14.0,33.0
+B,High efficiency,92367,94.32326450585136,5.0,3.0,8.0
+B,Long but low-intensity,3743,3.8222739619712844,8.0,5.0,12.0
+B,Short but intense,862,0.8802565202295611,8.0,6.0,11.0
+B,Stressful,954,0.9742050119477973,7.0,5.0,11.0

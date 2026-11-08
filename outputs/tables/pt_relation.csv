@@ -1,0 +1,9 @@
+season,indicator,trips,count,share_pct,ci_low,ci_high
+July,Origin within 250 m of an active stop,128135,126921.0,99.05256175127795,98.99802930386392,99.10415311706721
+July,Direct urban line between O and D stops (<=250 m),128135,77288.0,60.317633745658874,60.0494514524503,60.585197416680614
+July,Origin or destination <=300 m from a metro station,128135,43169.0,33.69024856596559,33.43194644941519,33.949528578644845
+July,Median distance to nearest active stop (m),128135,,76.00862147772536,,
+December,Origin within 250 m of an active stop,102300,101430.0,99.14956011730204,99.0914153014864,99.204013849605
+December,Direct urban line between O and D stops (<=250 m),102300,60507.0,59.1466275659824,58.84506581496667,59.447502414284756
+December,Origin or destination <=300 m from a metro station,102300,32851.0,32.112414467253174,31.82697485831392,32.39919741623218
+December,Median distance to nearest active stop (m),102300,,76.6437904039965,,

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Raw data are not redistributed (operator data shared by Città di Torino)
+data/
+*.csv.gz
+DATI MONOPATTINI SHARING/
+
+# Large intermediate files produced by the pipeline
+outputs/cache/
+
+# Built report (regenerate with report/build_report.py)
+*.docx
+*.doc
+*.dotx
+~$*
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

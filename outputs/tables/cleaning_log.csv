@@ -1,0 +1,31 @@
+operator,step,records,removed_pct_of_raw
+A - Lime,Raw records,1196210,
+A - Lime,Outside reference year,0,0.0
+A - Lime,Duplicated record (same vehicle and start time),0,0.0
+A - Lime,Coordinates missing or outside metropolitan area,1,8.359736166726578e-05
+A - Lime,Duration < 45 s,21310,1.7814597771294338
+A - Lime,Duration > 3 h,0,0.0
+A - Lime,Straight-line distance < 120 m,50452,4.217654090836893
+A - Lime,Straight-line distance > 15 km,13,0.0010867657016744
+A - Lime,Speed > 35 km/h,223,0.0186422116518002
+A - Lime,Valid trips,1124211,93.98107355731852
+B - Voi,Raw records,106115,
+B - Voi,Outside reference year,0,0.0
+B - Voi,Duplicated record (same vehicle and start time),0,0.0
+B - Voi,Coordinates missing or outside metropolitan area,10,0.009423738397022
+B - Voi,Duration < 45 s,3059,2.88272157564906
+B - Voi,Duration > 3 h,3,0.0028271215191066
+B - Voi,Straight-line distance < 120 m,4742,4.46873674786788
+B - Voi,Straight-line distance > 15 km,0,0.0
+B - Voi,Speed > 35 km/h,6,0.0056542430382132
+B - Voi,Valid trips,98295,92.63063657352872
+C - Bird,Raw records,390844,
+C - Bird,Outside reference year,0,0.0
+C - Bird,Duplicated record (same vehicle and start time),12,0.0030702786789614
+C - Bird,Coordinates missing or outside metropolitan area,10,0.0025585655658011
+C - Bird,Duration < 45 s,950,0.2430637287511129
+C - Bird,Duration > 3 h,25,0.0063964139145029
+C - Bird,Straight-line distance < 120 m,18878,4.830060075119485
+C - Bird,Straight-line distance > 15 km,0,0.0
+C - Bird,Speed > 35 km/h,312,0.0798272456529971
+C - Bird,Valid trips,370657,94.83502369231714

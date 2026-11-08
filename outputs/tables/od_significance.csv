@@ -1,0 +1,16 @@
+operator,band,zones_tested,zones_significant,significant_attractors,significant_generators
+A,am,75,65,28,37
+A,interpeak,77,46,17,29
+A,pm,79,45,28,17
+A,night,79,70,51,19
+A,tidal,79,63,20,43
+B,am,45,26,12,14
+B,interpeak,49,16,6,10
+B,pm,64,23,12,11
+B,night,60,37,23,14
+B,tidal,57,37,10,27
+C,am,76,57,25,32
+C,interpeak,78,27,13,14
+C,pm,80,37,23,14
+C,night,79,58,38,20
+C,tidal,78,58,21,37

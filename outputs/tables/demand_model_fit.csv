@@ -1,0 +1,2 @@
+spearman_observed_vs_fitted_density,slx_aic,slx_idise_IRR,slx_idise_p,slx_residual_moran_I,slx_residual_moran_p,zones,nb_alpha,nb_llf,nb_aic,poisson_aic,poisson_dispersion,mcfadden_pseudo_r2,residual_moran_I,residual_moran_p,spearman_idise_vs_trips_per_capita,spearman_p
+0.9424217927242304,1748.636561205077,1.0166313382432886,0.9004062550013046,0.28319964473534187,0.001,89,0.9162418310223827,-880.8162270636813,1775.6324541273625,317178.83760182693,4467.4086553765055,0.07108694335429055,0.19447624235650315,0.003,-0.04253670997681333,0.6922548796273968
