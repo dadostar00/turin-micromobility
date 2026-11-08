@@ -286,7 +286,7 @@ def build(src: Path, out: Path) -> None:
             doc.add_heading(s[level:].strip(), level=level)
         elif m := re.match(r"!\[(.*)\]\((.*)\)", s):
             flush()
-            path = ROOT / m.group(2)
+            path = (ROOT / "report" / m.group(2)).resolve()
             if path.exists():
                 doc.add_picture(str(path), width=Cm(16.5))
                 doc.paragraphs[-1].alignment = WD_ALIGN_PARAGRAPH.CENTER
